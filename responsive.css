@@ -1,0 +1,107 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+
+  .main-container {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 100px;
+  }
+
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+
+  .main-container {
+    padding-top: 50px;
+  }
+
+  .top-wrapper h1 {
+    font-size: 48px;
+    }
+
+  .heading h2 {
+    font-size: 24px;
+    padding-bottom: 50px;
+  }
+
+  .header-right {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block;
+  }
+
+  footer a {
+    padding: 0 25px;
+    font-size: 18px;
+  }
+
+  footer p {
+    font-size: 10px;
+  }
+
+  .teams a {
+    font-size: 20px;
+  }
+
+  p {
+    font-size: 15px;
+  }
+
+  .team-satu {
+    margin-bottom: 25px;
+  }
+
+  .team-dua {
+    margin-bottom: 25px;
+  }
+
+  .teams img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .teams p {
+    height: 75px;
+    margin-top: 25px;
+  }
+
+  .team-wrapper {
+    text-align: center;
+  }
+
+  .team-satu img {
+    float: none;
+    margin-bottom: 25px;
+  }
+
+  .team-dua img {
+    float: none;
+    margin-bottom: 25px;
+  }
+
+  .text-satu {
+    margin-left: 0px;
+    text-align: center;
+  }
+
+  .text-dua {
+    margin-right: 0px;
+    text-align: center;
+  }
+
+  .message-wrapper {
+    padding-bottom: 150px;
+  }
+
+  .message-wrapper p {
+    padding-bottom: 25px;
+  }
+
+  .message-btn {
+    font-size: 24px;
+  }
+
+}
